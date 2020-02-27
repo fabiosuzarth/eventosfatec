@@ -1,0 +1,23 @@
+2019-10-21 06:03:37.885 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 06:03:57.566 teste iniciado
+2019-10-21 07:15:26.468 teste iniciado
+2019-10-21 07:15:29.310 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 10:55:48.356 teste iniciado
+2019-10-21 10:55:58.708 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[25] Empregabilidade e Trabalhabilidade: Como conseguir um emprego e manter-se empregado
+2019-10-21 10:57:06.280 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[25] Empregabilidade e Trabalhabilidade: Como conseguir um emprego e manter-se empregado
+2019-10-21 10:57:13.868 rawResult.getText()=938
+2019-10-21 10:57:13.874 Result=938
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/25/938/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 10:57:15.691 Validacao enviada, Result=938
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/25/938/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 10:57:34.006 rawResult.getText()=35
+2019-10-21 10:57:34.014 Result=35
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/25/35/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 10:57:35.968 Validacao enviada, Result=35
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/25/35/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 10:57:48.359 rawResult.getText()=850
+2019-10-21 10:57:48.364 Result=850
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/25/850/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 10:57:50.114 Validacao enviada, Result=850
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/25/850/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 10:57:57.709 sendValidacao() ERROR

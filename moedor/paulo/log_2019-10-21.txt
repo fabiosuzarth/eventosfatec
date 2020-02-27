@@ -1,0 +1,199 @@
+2019-10-21 06:57:25.964 teste iniciado
+2019-10-21 06:57:26.980 teste iniciado
+2019-10-21 06:57:44.620 teste iniciado
+2019-10-21 07:00:09.014 teste iniciado
+2019-10-21 07:00:25.604 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:02:53.978 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:02:57.672 rawResult.getText()=20
+2019-10-21 07:02:57.675 Result=20
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/20/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:03:07.153 Validacao enviada, Result=20
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/20/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:03:39.311 rawResult.getText()=905
+2019-10-21 07:03:39.313 Result=905
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/905/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:03:40.551 Validacao enviada, Result=905
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/905/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:03:54.931 rawResult.getText()=934
+2019-10-21 07:03:54.934 Result=934
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:03:57.069 Validacao enviada, Result=934
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:04:27.947 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:06:27.460 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:06:31.482 rawResult.getText()=899
+2019-10-21 07:06:31.484 Result=899
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/899/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:06:33.718 Validacao enviada, Result=899
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/899/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:06:34.813 rawResult.getText()=912
+2019-10-21 07:06:34.817 Result=912
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/912/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:06:36.140 Validacao enviada, Result=912
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/912/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:06:43.719 sendValidacao() ERROR
+2019-10-21 07:07:12.158 rawResult.getText()=984
+2019-10-21 07:07:12.160 Result=984
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/984/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:07:13.545 Validacao enviada, Result=984
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/984/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:08:51.452 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:08:55.085 rawResult.getText()=850
+2019-10-21 07:08:55.086 Result=850
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/850/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:08:56.365 Validacao enviada, Result=850
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/850/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:09:10.593 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:11:13.284 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:11:17.912 rawResult.getText()=889
+2019-10-21 07:11:17.914 Result=889
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/889/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:11:20.154 Validacao enviada, Result=889
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/889/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:11:22.912 rawResult.getText()=969
+2019-10-21 07:11:22.915 Result=969
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/969/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:11:49.295 Validacao enviada, Result=969
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/969/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:11:52.055 rawResult.getText()=934
+2019-10-21 07:11:52.057 Result=934
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:11:53.435 Validacao enviada, Result=934
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:11:53.976 rawResult.getText()=934
+2019-10-21 07:11:53.979 Result=934
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:11:55.176 Validacao enviada, Result=934
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:12:34.611 rawResult.getText()=996
+2019-10-21 07:12:34.613 Result=996
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/996/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:15:59.554 Validacao enviada, Result=996
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/996/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:16:04.736 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:16:07.170 sendValidacao() ERROR
+2019-10-21 07:16:08.557 rawResult.getText()=989
+2019-10-21 07:16:08.560 Result=989
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/989/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:16:09.889 Validacao enviada, Result=989
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/989/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:16:10.429 rawResult.getText()=989
+2019-10-21 07:16:10.432 Result=989
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/989/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:16:11.423 Validacao enviada, Result=989
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/989/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:23:01.136 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:23:05.216 rawResult.getText()=996
+2019-10-21 07:23:05.219 Result=996
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/996/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:23:06.510 Validacao enviada, Result=996
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/996/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:23:07.295 rawResult.getText()=996
+2019-10-21 07:23:07.297 Result=996
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/996/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:23:09.699 Validacao enviada, Result=996
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/996/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:23:14.350 rawResult.getText()=839
+2019-10-21 07:23:14.353 Result=839
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/839/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:23:17.257 Validacao enviada, Result=839
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/839/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:23:23.536 rawResult.getText()=839
+2019-10-21 07:23:23.537 Result=839
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/839/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:23:24.874 sendValidacao() ERROR
+2019-10-21 07:23:33.953 Validacao nao enviada, Result=839
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/839/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:29:55.005 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:47:17.082 teste iniciado
+2019-10-21 07:47:19.639 teste iniciado
+2019-10-21 07:47:53.916 teste iniciado
+2019-10-21 07:49:03.730 teste iniciado
+2019-10-21 07:49:06.825 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:49:09.570 rawResult.getText()=839
+2019-10-21 07:49:09.572 Result=839
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/839/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:49:12.861 Validacao nao enviada, Result=839
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/839/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:49:17.984 teste iniciado
+2019-10-21 07:54:04.943 teste iniciado
+2019-10-21 07:54:06.988 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 07:54:12.462 rawResult.getText()=849
+2019-10-21 07:54:12.465 Result=849
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/849/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 07:54:15.718 Validacao enviada, Result=849
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/849/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:21:50.486 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:21:53.079 rawResult.getText()=851
+2019-10-21 08:21:53.083 Result=851
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/851/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:21:54.916 Validacao enviada, Result=851
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/851/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:37:12.593 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:37:21.117 rawResult.getText()=860
+2019-10-21 08:37:21.120 Result=860
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/860/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:37:22.065 Validacao enviada, Result=860
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/860/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:37:22.597 rawResult.getText()=860
+2019-10-21 08:37:22.599 Result=860
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/860/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:37:23.878 Validacao enviada, Result=860
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/860/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:37:25.643 rawResult.getText()=37
+2019-10-21 08:37:25.645 Result=37
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/37/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:37:26.745 Validacao enviada, Result=37
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/37/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:37:32.980 rawResult.getText()=876
+2019-10-21 08:37:32.983 Result=876
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/876/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:37:33.863 Validacao enviada, Result=876
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/876/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:39:13.222 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:39:19.007 rawResult.getText()=968
+2019-10-21 08:39:19.008 Result=968
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/968/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:39:21.118 Validacao enviada, Result=968
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/968/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:39:27.533 rawResult.getText()=967
+2019-10-21 08:39:27.536 Result=967
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/967/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:39:31.035 Validacao enviada, Result=967
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/967/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:42:17.014 teste iniciado
+2019-10-21 08:42:21.437 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:42:25.067 rawResult.getText()=938
+2019-10-21 08:42:25.070 Result=938
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/938/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:42:26.099 Validacao enviada, Result=938
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/938/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:42:26.636 rawResult.getText()=938
+2019-10-21 08:42:26.638 Result=938
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/938/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:42:29.330 Validacao enviada, Result=938
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/938/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:42:34.221 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:43:28.686 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:43:32.333 rawResult.getText()=883
+2019-10-21 08:43:32.334 Result=883
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/883/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:43:36.060 Validacao enviada, Result=883
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/883/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:44:17.282 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:44:27.616 rawResult.getText()=920
+2019-10-21 08:44:27.619 Result=920
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/920/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:44:28.504 Validacao enviada, Result=920
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/920/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:44:29.044 rawResult.getText()=920
+2019-10-21 08:44:29.046 Result=920
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/920/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:45:09.774 Validacao enviada, Result=920
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/920/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-21 08:45:56.666 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:46:05.542 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 08:46:07.928 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 09:04:06.265 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 09:04:15.469 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-21 09:04:36.121 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada

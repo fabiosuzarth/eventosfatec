@@ -1,0 +1,7 @@
+2019-10-28 11:57:23.619 teste iniciado
+2019-10-28 11:57:45.877 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[33] Empreender e Persistir no Brasil: Uma visão empresarial
+2019-10-28 11:57:50.228 rawResult.getText()=866
+2019-10-28 11:57:50.246 Result=866
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/33/866/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-28 11:57:51.428 Validacao enviada, Result=866
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/33/866/310c77f27d6313bf3223e5ce03d61e0c

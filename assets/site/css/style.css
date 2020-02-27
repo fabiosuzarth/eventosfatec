@@ -1,0 +1,106 @@
+body{
+    background: #F1F3F6;
+}
+
+.container{
+    background-color: #FFFFFF; 
+}
+
+/* Aumentar margin container quando tela pequena */
+/*@media screen and (max-width:650px) {
+    .container{ 
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+}*/
+
+/* Ajustar imagem quando tela pequena */
+@media screen and (max-width:650px) {
+    #img-loading{ 
+        width: 20%;
+    }
+}
+
+#navbar-id{
+	border: 2px solid white;
+	padding: 5px;
+}
+
+#page-description{
+    padding: 30px; 
+}
+
+#page-content{
+    padding: 30px; 
+}
+
+.card{
+	transition: box-shadow .3s
+}
+
+.card:hover {
+    cursor: pointer;
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
+/* TRANSFORMAR COLUNA TABELA EM LINHA */
+
+@media only screen and (max-width: 600px) {
+    /* Force table to not be like tables anymore */
+    #no-more-tables table,
+    #no-more-tables thead,
+    #no-more-tables tbody,
+    #no-more-tables th,
+    #no-more-tables td,
+    #no-more-tables tr {
+        display: block;
+    }
+     
+    /* Hide table headers (but not display: none;, for accessibility) */
+    #no-more-tables thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+     
+    #no-more-tables tr { 
+        border: 1px solid #ccc; 
+        margin-bottom: 5px;
+    }
+      
+    #no-more-tables td {
+        /* Behave like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee;
+        position: relative;
+        padding-left: 50%;
+        white-space: normal;
+        text-align:left;
+    }    
+     
+    #no-more-tables td:before {
+        /* Now like a table header */
+        position: absolute;
+        /* Top/left values mimic padding */
+        top: 6px;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+        text-align:left;
+        font-weight: bold;
+    }
+     
+    #no-more-tables td:before { 
+        content: attr(data-title); 
+    }
+}
+
+/* /TRANSFORMAR COLUNA TABELA EM LINHA */
+
+.card-top-corner {
+    z-index: 1;
+    position: absolute;
+    right: 10;
+    top: -10;
+  }

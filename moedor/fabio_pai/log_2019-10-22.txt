@@ -1,0 +1,49 @@
+2019-10-22 11:43:47.537 teste iniciado
+2019-10-22 11:44:11.339 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[25] Empregabilidade e Trabalhabilidade: Como conseguir um emprego e manter-se empregado
+2019-10-22 11:44:15.460 teste iniciado
+2019-10-22 11:45:11.834 teste iniciado
+2019-10-22 06:12:10.166 teste iniciado
+2019-10-22 10:29:22.792 teste iniciado
+2019-10-22 10:29:30.100 teste iniciado
+2019-10-22 10:29:39.739 teste iniciado
+2019-10-22 10:29:51.303 teste iniciado
+2019-10-22 10:30:00.299 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-22 10:30:05.169 rawResult.getText()=896
+2019-10-22 10:30:05.183 Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:07.566 Validacao enviada, Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:09.285 rawResult.getText()=896
+2019-10-22 10:30:09.291 Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:11.603 Validacao enviada, Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:13.233 rawResult.getText()=896
+2019-10-22 10:30:13.239 Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:15.204 sendValidacao() ERROR
+2019-10-22 10:30:19.182 sendValidacao() ERROR
+2019-10-22 10:30:21.623 Validacao enviada, Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:25.363 rawResult.getText()=896
+2019-10-22 10:30:25.369 Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:26.968 Validacao enviada, Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:28.678 rawResult.getText()=896
+2019-10-22 10:30:28.685 Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:30.608 Validacao enviada, Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:38.146 rawResult.getText()=841
+2019-10-22 10:30:38.155 Result=841
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/841/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:39.878 Validacao enviada, Result=841
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/841/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:45.056 rawResult.getText()=895
+2019-10-22 10:30:45.060 Result=895
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/895/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:30:46.592 Validacao enviada, Result=895
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/895/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-22 10:31:06.786 teste iniciado
+2019-10-22 10:32:03.700 teste iniciado

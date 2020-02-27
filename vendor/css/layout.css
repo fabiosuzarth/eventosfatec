@@ -1,0 +1,18 @@
+
+.wrap-login100 {
+    width: 100% !important;
+    margin-left: 10% !important ;
+    margin-right: 10% !important;
+  }
+
+.login100-form-logo {
+    font-size: 190% !important;
+}
+
+.login100-form-title{
+  font-size: 10px !important;
+}
+
+.login100-form-btn{
+  background-color:white !important;
+}

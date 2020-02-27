@@ -1,0 +1,384 @@
+2019-10-23 06:46:21.855 teste iniciado
+2019-10-23 06:46:26.026 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 06:46:28.318 rawResult.getText()=34
+2019-10-23 06:46:28.320 Result=34
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/34/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:46:30.238 Validacao enviada, Result=34
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/34/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:46:41.877 rawResult.getText()=897
+2019-10-23 06:46:41.879 Result=897
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:46:43.079 Validacao enviada, Result=897
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:46:56.507 rawResult.getText()=29
+2019-10-23 06:46:56.510 Result=29
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/29/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:46:57.460 Validacao enviada, Result=29
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/29/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:48:45.179 rawResult.getText()=20
+2019-10-23 06:48:45.181 Result=20
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/20/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:48:46.650 Validacao enviada, Result=20
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/20/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:54:20.724 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 06:54:26.111 rawResult.getText()=888
+2019-10-23 06:54:26.114 Result=888
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/888/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:54:27.028 Validacao enviada, Result=888
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/888/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:55:05.619 rawResult.getText()=948
+2019-10-23 06:55:05.621 Result=948
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/948/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:55:06.548 Validacao enviada, Result=948
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/948/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:55:17.397 rawResult.getText()=932
+2019-10-23 06:55:17.400 Result=932
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/932/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:55:18.187 Validacao enviada, Result=932
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/932/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:55:23.698 rawResult.getText()=928
+2019-10-23 06:55:23.700 Result=928
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/928/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:55:24.621 Validacao enviada, Result=928
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/928/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:59:32.529 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 06:59:34.837 rawResult.getText()=915
+2019-10-23 06:59:34.839 Result=915
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/915/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 06:59:35.669 Validacao enviada, Result=915
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/915/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:01:53.670 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 07:02:32.347 rawResult.getText()=889
+2019-10-23 07:02:32.348 Result=889
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/889/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:02:33.196 Validacao enviada, Result=889
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/889/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:04:32.167 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 07:07:52.997 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 07:11:24.973 teste iniciado
+2019-10-23 07:11:25.965 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 07:11:29.720 rawResult.getText()=980
+2019-10-23 07:11:29.722 Result=980
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/980/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:11:30.620 Validacao enviada, Result=980
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/980/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:15:42.210 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 07:15:46.045 rawResult.getText()=976
+2019-10-23 07:15:46.050 Result=976
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/976/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:15:46.904 Validacao enviada, Result=976
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/976/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:15:59.908 rawResult.getText()=15
+2019-10-23 07:15:59.910 Result=15
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/15/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:16:00.684 Validacao enviada, Result=15
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/15/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:16:01.276 rawResult.getText()=15
+2019-10-23 07:16:01.278 Result=15
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/15/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:16:10.348 Validacao enviada, Result=15
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/15/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:25:56.735 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 07:26:05.987 rawResult.getText()=905
+2019-10-23 07:26:05.989 Result=905
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/905/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:26:06.738 Validacao enviada, Result=905
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/905/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:59:11.698 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 07:59:17.264 rawResult.getText()=30
+2019-10-23 07:59:17.267 Result=30
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/30/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:59:18.073 Validacao enviada, Result=30
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/30/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 07:59:22.349 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:05:08.669 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:19:51.778 teste iniciado
+2019-10-23 08:19:57.336 teste iniciado
+2019-10-23 08:19:59.506 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:20:06.433 rawResult.getText()=904
+2019-10-23 08:20:06.435 Result=904
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/904/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:20:07.304 Validacao enviada, Result=904
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/904/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:20:07.846 rawResult.getText()=904
+2019-10-23 08:20:07.848 Result=904
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/904/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:20:09.906 Validacao enviada, Result=904
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/904/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:21:46.773 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:21:53.774 rawResult.getText()=925
+2019-10-23 08:21:53.776 Result=925
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/925/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:21:58.173 Validacao enviada, Result=925
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/925/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:22:23.330 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:23:08.572 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:34:48.469 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:34:55.756 rawResult.getText()=896
+2019-10-23 08:34:55.760 Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:34:56.509 Validacao enviada, Result=896
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/896/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:35:02.350 rawResult.getText()=869
+2019-10-23 08:35:02.353 Result=869
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/869/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:35:03.143 Validacao enviada, Result=869
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/869/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:36:49.305 teste iniciado
+2019-10-23 08:36:50.897 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:36:54.157 rawResult.getText()=983
+2019-10-23 08:36:54.159 Result=983
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/983/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:36:55.044 Validacao enviada, Result=983
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/983/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:36:55.553 rawResult.getText()=983
+2019-10-23 08:36:55.555 Result=983
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/983/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:36:56.428 Validacao enviada, Result=983
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/983/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:36:57.003 rawResult.getText()=983
+2019-10-23 08:36:57.005 Result=983
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/983/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:36:57.978 Validacao enviada, Result=983
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/983/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:41:52.467 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:42:21.590 rawResult.getText()=18
+2019-10-23 08:42:21.593 Result=18
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/18/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:42:22.374 Validacao enviada, Result=18
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/18/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:50:22.572 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:50:26.791 rawResult.getText()=884
+2019-10-23 08:50:26.794 Result=884
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/884/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:50:27.625 Validacao enviada, Result=884
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/884/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:50:38.733 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:50:56.387 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:50:59.088 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:51:30.505 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:51:34.636 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:52:20.970 teste iniciado
+2019-10-23 08:52:22.446 teste iniciado
+2019-10-23 08:52:27.137 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:52:31.714 rawResult.getText()=978
+2019-10-23 08:52:31.716 Result=978
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/978/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:52:32.765 Validacao enviada, Result=978
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/978/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:52:40.242 rawResult.getText()=977
+2019-10-23 08:52:40.244 Result=977
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/977/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:52:42.388 Validacao enviada, Result=977
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/977/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:53:13.719 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:53:15.956 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:53:17.328 teste iniciado
+2019-10-23 08:54:51.848 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 08:54:54.157 rawResult.getText()=852
+2019-10-23 08:54:54.160 Result=852
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/852/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:54:55.944 Validacao enviada, Result=852
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/852/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:55:06.847 rawResult.getText()=871
+2019-10-23 08:55:06.849 Result=871
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/871/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:55:13.498 Validacao enviada, Result=871
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/871/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:55:27.133 rawResult.getText()=878
+2019-10-23 08:55:27.135 Result=878
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/878/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:55:27.984 Validacao enviada, Result=878
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/878/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:55:34.256 rawResult.getText()=1009
+2019-10-23 08:55:34.258 Result=1009
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/1009/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:55:36.536 Validacao enviada, Result=1009
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/1009/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:56:20.303 rawResult.getText()=891
+2019-10-23 08:56:20.306 Result=891
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/891/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:56:21.175 Validacao enviada, Result=891
+Validar=https://eventosfatec.dsicari.com.br/entradaevento/2/891/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 08:57:48.652 teste iniciado
+2019-10-23 08:57:51.658 teste iniciado
+2019-10-23 09:01:08.768 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[0] Entrada
+2019-10-23 09:01:13.593 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[31] Coding Dojo com C#
+2019-10-23 09:01:17.153 rawResult.getText()=897
+2019-10-23 09:01:17.156 Result=897
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:17.915 Validacao enviada, Result=897
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:18.421 rawResult.getText()=897
+2019-10-23 09:01:18.422 Result=897
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:21.018 Validacao enviada, Result=897
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:24.587 rawResult.getText()=914
+2019-10-23 09:01:24.589 Result=914
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/914/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:25.300 Validacao enviada, Result=914
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/914/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:27.302 rawResult.getText()=928
+2019-10-23 09:01:27.304 Result=928
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/928/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:28.068 Validacao enviada, Result=928
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/928/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:34.776 rawResult.getText()=934
+2019-10-23 09:01:34.778 Result=934
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:35.586 Validacao enviada, Result=934
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:40.745 rawResult.getText()=841
+2019-10-23 09:01:40.746 Result=841
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/841/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:41.552 Validacao enviada, Result=841
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/841/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:42.078 rawResult.getText()=841
+2019-10-23 09:01:42.079 Result=841
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/841/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:01:42.874 Validacao enviada, Result=841
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/841/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:02:04.581 rawResult.getText()=976
+2019-10-23 09:02:04.582 Result=976
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/976/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:02:05.314 Validacao enviada, Result=976
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/976/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:02:08.122 rawResult.getText()=969
+2019-10-23 09:02:08.124 Result=969
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/969/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 09:02:08.874 Validacao enviada, Result=969
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/31/969/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:14:18.708 teste iniciado
+2019-10-23 10:14:34.009 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:14:39.664 rawResult.getText()=898
+2019-10-23 10:14:39.666 Result=898
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/898/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:14:40.609 Validacao enviada, Result=898
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/898/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:17:36.616 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:25:38.665 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:25:40.879 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:25:45.959 rawResult.getText()=918
+2019-10-23 10:25:45.962 Result=918
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/918/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:25:46.715 Validacao enviada, Result=918
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/918/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:25:52.826 rawResult.getText()=914
+2019-10-23 10:25:52.828 Result=914
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/914/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:25:53.654 Validacao enviada, Result=914
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/914/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:26:21.935 rawResult.getText()=11927331
+2019-10-23 10:26:21.938 Result=11927331
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/11927331/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:28:39.655 Validacao enviada, Result=11927331
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/11927331/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:28:43.367 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:28:46.923 rawResult.getText()=879
+2019-10-23 10:28:46.925 Result=879
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/879/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:28:47.664 Validacao enviada, Result=879
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/879/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:29:06.634 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:35:32.728 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:35:36.226 rawResult.getText()=909
+2019-10-23 10:35:36.228 Result=909
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/909/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:35:37.000 Validacao enviada, Result=909
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/909/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:35:41.246 rawResult.getText()=905
+2019-10-23 10:35:41.248 Result=905
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/905/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:35:41.945 Validacao enviada, Result=905
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/905/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:36:27.810 rawResult.getText()=14671809
+2019-10-23 10:36:27.813 Result=14671809
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/14671809/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:36:33.020 Validacao nao enviada, Result=14671809
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/14671809/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:37:41.322 rawResult.getText()=08623441
+2019-10-23 10:37:41.325 Result=08623441
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/08623441/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:37:43.489 Validacao nao enviada, Result=08623441
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/08623441/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:39:02.983 rawResult.getText()=31918183
+2019-10-23 10:39:02.985 Result=31918183
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/31918183/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:39:26.522 Validacao nao enviada, Result=31918183
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/31918183/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:39:29.800 rawResult.getText()=11336516
+2019-10-23 10:39:29.802 Result=11336516
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/11336516/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:39:31.588 Validacao nao enviada, Result=11336516
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/11336516/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:39:34.534 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:39:42.501 rawResult.getText()=07157189
+2019-10-23 10:39:42.504 Result=07157189
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/07157189/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:39:57.702 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:40:01.806 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:44:38.238 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:44:44.078 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:45:09.382 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:46:01.199 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:46:10.106 rawResult.getText()=891
+2019-10-23 10:46:10.109 Result=891
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/891/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:10.872 Validacao enviada, Result=891
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/891/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:13.520 rawResult.getText()=888
+2019-10-23 10:46:13.523 Result=888
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/888/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:14.262 Validacao enviada, Result=888
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/888/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:19.957 rawResult.getText()=989
+2019-10-23 10:46:19.959 Result=989
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/989/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:20.629 Validacao enviada, Result=989
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/989/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:24.885 rawResult.getText()=889
+2019-10-23 10:46:24.887 Result=889
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/889/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:25.508 Validacao enviada, Result=889
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/889/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:34.873 rawResult.getText()=934
+2019-10-23 10:46:34.875 Result=934
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:35.534 Validacao enviada, Result=934
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/934/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:38.885 rawResult.getText()=978
+2019-10-23 10:46:38.887 Result=978
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/978/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:39.523 Validacao enviada, Result=978
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/978/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:43.574 rawResult.getText()=904
+2019-10-23 10:46:43.577 Result=904
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/904/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:44.228 Validacao enviada, Result=904
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/904/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:48.672 rawResult.getText()=939
+2019-10-23 10:46:48.674 Result=939
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/939/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:49.383 Validacao enviada, Result=939
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/939/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:59.062 rawResult.getText()=976
+2019-10-23 10:46:59.065 Result=976
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/976/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:46:59.810 Validacao enviada, Result=976
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/976/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:47:01.726 rawResult.getText()=969
+2019-10-23 10:47:01.729 Result=969
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/969/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:47:02.464 Validacao enviada, Result=969
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/969/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:47:58.067 rawResult.getText()=897
+2019-10-23 10:47:58.069 Result=897
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:47:58.889 Validacao enviada, Result=897
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:47:59.417 rawResult.getText()=897
+2019-10-23 10:47:59.419 Result=897
+Validar=https://eventosfatec.dsicari.com.br/inscricao/confirmarpresencaapp/34/897/310c77f27d6313bf3223e5ce03d61e0c
+2019-10-23 10:48:10.177 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning
+2019-10-23 10:51:38.463 Leitor qrcode iniciado, evento=[2] III Semana Ciência e Tecnologia atividade=[34] Redes Neurais e Deep Learning

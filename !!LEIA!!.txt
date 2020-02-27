@@ -1,0 +1,114 @@
+Para funcionar sessao -> Session.php alterar
+  OR ! preg_match('/^[0-9a-f]/', $_COOKIE[$this->_config['cookie_name']])
+
+
+habilitar no ini.php allow_url_include=On para includes do site funcionar -> Nao mais necessario pois esta dando load no template_site
+
+verificar config base url quando em producao
+
+Nao passar tag html no json, quebra app android -> teria que tratar json antes de enviar com scapes \
+
+// Permissoes pasta fotos
+chown -R www-data:www-data /var/www/img
+
+instalar php-gd para thumbnail
+chown -R www-data:www-data thumbs/
+
+verificar iniset no pessa.php controller
+
+Log de erros setaddoo em config.php e logando em application/logs
+-> Para logar:  <?php log_message('error', 'teste log'); ?>
+aparece como "ERROR - 2019-10-03 04:08:01 --> teste log"
+
+Soh vai logar se estiver compativel com hierariquia de log!!!
+
+REF: https://www.freecodecamp.org/news/how-to-view-codeigniter-log-files-in-the-browser-e4ec7a9e8b23/
+
+**************************************
+    APACHE CONFIGURACAO
+**************************************
+
+-----APACHE2.CONF-----
+
+Em /etc/apache2/apache2.conf modificar:
+
+<Directory /var/www/>
+  Options Indexes FollowSymLinks
+  AllowOverride None
+  Require all granted
+</Directory>
+
+Para
+
+<Directory /var/www/>
+  Options Indexes FollowSymLinks
+  AllowOverride All
+  Require all granted
+</Directory>
+
+-----SITE.CONF-----
+
+Dentro da conf do site, ex:  /etc/apache2/sites-available/eventosfatec.conf, adicionar:
+
+ <Directory "/var/www/eventosfatec">
+   Options Indexes FollowSymLinks MultiViews
+   AllowOverride All
+   Order allow,deny
+   allow from all
+   Require all granted
+ </Directory>
+
+!!!! PARA O CASO DO CODEIGNITER NAO SERVE POIS ELE FAZ REWRITE ALL !!!!
+!!!! MANTIDO APENAS PARA INFORMACAO !!!
+Para bloquear acesso a alguma pasta especifica. Isto eh muito importante quando por exemplo fazemos o deploy pelo git:
+
+<Directorymatch "^/.*/.git/">
+  Order deny,allow
+  Deny from all
+</Directorymatch>
+
+!!!! PARA O CASO DO CODEIGNITER NAO SERVE POIS ELE FAZ REWRITE ALL !!!!
+!!!! MANTIDO APENAS PARA INFORMACAO !!!
+Para bloquear acesso a algum arquivo especifico, como por exemplo a este LEIA:
+
+<Directorymatch "^/.*/!!LEIA!!.txt">
+  Order deny,allow
+  Deny from all
+</Directorymatch>
+
+-----CODEIGNITER .HTACCESS-----
+
+O arquivo .htaccess da raiz do codeigniter deve conter
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
+
+
+-----CODEIGNITER CONFIG-----
+Em ./application/config/config.php, alterar:
+
+$config['base_url'] =  'https://' . $_SERVER['HTTP_HOST'] . '/';
+$config['index_page'] = '';
+$config['uri_protocol'] = 'AUTO';
+
+-----CODEIGNITER BLOQUEAR ACESSO A PASTA-----
+
+Para bloquear acesso indevido a alguma pasta, inserir um .htaccess dentro dela e adicionar o conteudo:
+
+<IfModule authz_core_module>
+    Require all denied
+</IfModule>
+<IfModule !authz_core_module>
+    Deny from all
+</IfModule>
+
+Para bloquear acesso a arquivo, no htaccess dentro da pasta onde o arquivo esta
+
+<Files *.txt>
+  Order allow,deny
+  Deny from all
+</Files>
